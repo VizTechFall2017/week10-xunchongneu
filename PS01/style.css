@@ -1,0 +1,10 @@
+.col-md-12 {
+    height:500px;
+    width:100%;
+}
+
+.col-md-6 {
+    height:500px;
+    width:45%;
+    display:inline-block;
+}
