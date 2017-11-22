@@ -1,7 +1,7 @@
 var width = document.getElementById('svg').clientWidth;
 var height = document.getElementById('svg').clientHeight;
 
-var marginLeft =50;
+var marginLeft =80;
 var marginTop = 50;
 
 var svg = d3.select('svg')
